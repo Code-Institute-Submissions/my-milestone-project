@@ -20,6 +20,7 @@ as a user i would like to contact support for any problems i have.
 
 as a user i would like to view when tournaments are on and also who will be playing with times and dates.
 
+# features
 describe the header - the header is for the title and for the bits of code that are important, for example
 1. images
 1. website links
@@ -30,7 +31,7 @@ body of the home page - the body of the home page is for the content you want on
 
 body of contact support page - the body of the contact support page is for the players of rocket league that have trouble with the game, for example
 1. not able to load game
-it should be simple to use with a form for the players to fill out with 
+- it should be simple to use with a form for the players to fill out with 
 1. email
 1. console they are playing on
 1. a text box for what the problem is
@@ -41,8 +42,14 @@ body of tournaments - the body of tournaments page is for anyone that is interes
 it should have a table that shows 
 1. who will be playing
 1. the times and dates 
+1. the kind of tournaments e.g. 
+- what the rank is
+- how many players vs players
 
-describethe footer - 
+describethe footer - the footer is for the social links for example
+1. facebook
+1. twitter
+- you add these to the footer so that they can go to the bottom of your page.
 
 
 
