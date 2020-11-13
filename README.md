@@ -14,8 +14,10 @@ You can design cars your own cars with different:
 - and more
 
 # User Stories
-as a user i would like a home page that is basic to use but has all the information that i need on one page.
-code of conduct,
+as a user i would like a home page that has all the informatin on the page tat i need for example.
+1. code of conduct
+1. links to the other pages
+
 as a user i would like to contact support for any problems i have.
 
 as a user i would like to view when tournaments are on and also who will be playing with times and dates and the rank the teams are.
