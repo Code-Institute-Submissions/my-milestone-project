@@ -15,19 +15,22 @@ You can design cars your own cars with different:
 
 # User Stories
 as a user i would like a home page that is basic to use but has all the information that i need on one page.
-
+code of conduct,
 as a user i would like to contact support for any problems i have.
 
-as a user i would like to view when tournaments are on and also who will be playing with times and dates.
+as a user i would like to view when tournaments are on and also who will be playing with times and dates and the rank the teams are.
 
 # features
-describe the header - the header is for the title and for the bits of code that are important, for example
+describe the header - the header is for the title and for the bits of code that are important. You will have a header for all 3 catagories, for example
 1. images
 1. website links
 
 body of the home page - the body of the home page is for the content you want on your home page, for example 
 1. tournaments
 1. contact support 
+1. images 
+1. game stratagy 
+1. code of conduct
 
 body of contact support page - the body of the contact support page is for the players of rocket league that have trouble with the game, for example
 1. not able to load game
