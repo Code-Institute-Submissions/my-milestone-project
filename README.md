@@ -26,13 +26,17 @@ as a user i would like to view when tournaments are on and also who will be play
 describe the header - the header is for the title and for the bits of code that are important. You will have a header for all 3 catagories, for example
 1. images
 1. website links
+1. tournaments
+1. home page
+1. contact support
 
 body of the home page - the body of the home page is for the content you want on your home page, for example 
-1. tournaments
-1. contact support 
+1. a link to tournaments
+1. a link to contact support 
 1. images 
 1. game stratagy 
 1. code of conduct
+1. and information on the game
 
 body of contact support page - the body of the contact support page is for the players of rocket league that have trouble with the game, for example
 1. not able to load game
