@@ -23,7 +23,8 @@ as a user i would like to contact support for any problems i have with the game 
 as a user i would like to view when tournaments are on and also who will be playing with times and dates and the rank the teams are.
 
 # features
-describe the header - the header is for the title and for the bits of code that are important. You will have a header for all 3 catagories,
+## describe the header 
+the header is for the title and for the bits of code that are important. You will have a header for all 3 catagories,
 for example
 1. images
 1. website links
@@ -31,7 +32,8 @@ for example
 1. home page
 1. contact support
 
-body of the home page - the body of the home page is for the content you want on your home page, for example 
+## body of the home page 
+the body of the home page is for the content you want on your home page, for example 
 1. a link to tournaments
 1. a link to contact support 
 1. images 
@@ -44,7 +46,8 @@ i have also source linked it at the top of my html file and in the footer is tex
 have no rights to rocket league.
 source:https://www.rocketleague.com/news/rocket-league-code-of-conduct
 
-body of contact support page - the body of the contact support page is for the players of rocket league that have trouble with the game, for example
+## body of contact support page 
+the body of the contact support page is for the players of rocket league that have trouble with the game, for example
 1. not able to load game
 - it should be simple to use with a form for the players to fill out with:
 1. email
@@ -53,7 +56,8 @@ body of contact support page - the body of the contact support page is for the p
 1. epic account 
 1. suggestion for how to fix/improve the game
 
-body of tournaments - the body of tournaments page is for anyone that is interested in RLCS (Rocket League Championship Series) 
+## body of tournaments 
+the body of tournaments page is for anyone that is interested in RLCS (Rocket League Championship Series) 
 it should have a table that shows:
 1. who will be playing
 1. the times and dates 
@@ -61,7 +65,8 @@ it should have a table that shows:
 - what the rank is
 - how many players vs players
 
-describethe footer - the footer is for the social links for example
+## describe the footer 
+the footer is for the social links for example
 1. facebook
 1. twitter
 1. the actual rocket league website
