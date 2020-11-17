@@ -42,11 +42,11 @@ body of the home page - the body of the home page is for the content you want on
 here is the link to the full code of conduct. in my html page there is a small piece of it that has been re-worded slightly.
 i have also source linked it at the top of my html file and in the footer is text saying this is for educational purposes only that i 
 have no rights to rocket league.
-source:https://www.rocketleague.com/news/rocket-league-code-of-conduct/
+source:https://www.rocketleague.com/news/rocket-league-code-of-conduct
 
 body of contact support page - the body of the contact support page is for the players of rocket league that have trouble with the game, for example
 1. not able to load game
-- it should be simple to use with a form for the players to fill out with 
+- it should be simple to use with a form for the players to fill out with:
 1. email
 1. console they are playing on
 1. a text box for what the problem is
@@ -54,7 +54,7 @@ body of contact support page - the body of the contact support page is for the p
 1. suggestion for how to fix/improve the game
 
 body of tournaments - the body of tournaments page is for anyone that is interested in RLCS (Rocket League Championship Series) 
-it should have a table that shows 
+it should have a table that shows:
 1. who will be playing
 1. the times and dates 
 1. the kind of tournaments e.g. 
@@ -65,6 +65,7 @@ describethe footer - the footer is for the social links for example
 1. facebook
 1. twitter
 1. the actual rocket league website
+1. a disclaimer that this site is for educational purposes only 
 - you add these to the footer so that they can go to the bottom of your page.
 
 
