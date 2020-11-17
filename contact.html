@@ -6,26 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css"/>
-    <source:https://www.rocketleague.com/news/rocket-league-code-of-conduct>
+    
     <title>Rocket League</title>
 </head>
 <header>
 <section>
-<nav>
 <h2>contact support</h2>
+<nav>
 <form>
-<label for="email">Email</label>
-<input type="email" name="email_address" id="email" required>
-<label for="type-of-console"></label>
-<select name="type-of-console" id="type-of-console">
-<option value="playstation">playstation</option>
-<option value="xbox">xbox</option>
-<option value="steam">steam</option>
-<option value="pc">pc</option>
-<option value="nintendo-switch">nintendo switch</option>
-<textarea name="myProblem" rows="10" cols="40">Please describe your problem</textarea>
-<textarea name="myProblem" rows="10" cols="40">suggestion on how to improve the game</textarea>
-<input type="submit">
+<label for="email_address">Email</label>
+<input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+  <div class="form-group">
+    <label for="exampleFormControlSelect2">type of console</label>
+    <select multiple class="form-control" id="exampleFormControlSelect2">
+      <option>Epic</option>
+      <option>Playstation</option>
+      <option>Nintendo switch</option>
+      <option>Steam</option>
+      <option>Xbox</option>
+    </select>
+  </div>
+<textarea class="form-control" id="myproblem" rows="3">please describe your problem</textarea>
+<textarea class="form-control" id="solution" rows="3">suggestion on how to improve the game</textarea>
+<button type="submit" class="btn btn-primary">submit</button>
 </nav>
 </section>
 </header>
