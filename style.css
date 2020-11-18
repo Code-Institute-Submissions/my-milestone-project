@@ -10,12 +10,14 @@ h4 {
     color: #0000ff
 }
 .table {
+    border-radius: 2px;
     border-color: #000000
 }
 .navbar-expand{-sm|-md|-lg|-xl}
 .navbar-dark
 
-.img-fluid{
-    max-width: 100%;
-    height: auto;
+.img-thumbnail{
+    max-width: 50%;
+    height: 50%;
+    border: 1px;
 }

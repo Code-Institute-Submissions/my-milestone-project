@@ -34,7 +34,8 @@ for example
 
 ## images 
 i took the images off google here are the links to the original images
-https://www.google.com/imgres?imgurl=https%3A%2F%2Frocketleague.media.zestyio.com%2Frl_cross-play_asset_rl_1920.f1cb27a519bdb5b6ed34049a5b86e317.jpg&imgrefurl=https%3A%2F%2Fwww.rocketleague.com%2Fnews%2Ffull-cross-platform-play-now-live-in-rocket-league%2F&tbnid=oAp2Bs7EBwUezM&vet=12ahUKEwjd2b77-IntAhVJ0RoKHfbYAjAQMygCegUIARDeAQ..i&docid=iXYmkYpROzMfhM&w=920&h=1080&q=rocket%20league&ved=2ahUKEwjd2b77-IntAhVJ0RoKHfbYAjAQMygCegUIARDeAQ
+https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.309bf22bd29c2e411e9dd8eb07575bb1.jpg
+
 ## body of the home page 
 the body of the home page is for the content you want on your home page, for example 
 1. a link to tournaments
