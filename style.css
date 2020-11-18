@@ -9,15 +9,17 @@ h2 {
 h4 {
     color: #0000ff
 }
-.table {
-    border-radius: 2px;
-    border-color: #000000
+
+table, th, td {
+  border: 1px solid black;
 }
-.navbar-expand{-sm|-md|-lg|-xl}
-.navbar-dark
+
 
 .img-thumbnail{
-    max-width: 50%;
+    im: 50%;
     height: 50%;
     border: 1px;
+}
+a {
+  color: #0000ff
 }
