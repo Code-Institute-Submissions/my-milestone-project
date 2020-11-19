@@ -31,7 +31,8 @@ for example
 1. tournaments
 1. home page
 1. contact support
-
+1. search bar 
+- the search bar does not do anything at this stage its purely there to fill in the gap that is on the home page.
 ## images 
 i took the images off google here are the links to the original images
 https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.309bf22bd29c2e411e9dd8eb07575bb1.jpg
