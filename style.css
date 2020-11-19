@@ -1,29 +1,15 @@
 
-h1 {
-    color: #ff000f
-
-}
-h2 {
-    color: #000000
-}
-
-h4 {
-    color: #0000ff
-}
-
-table, th, td {
+.table, th, td {
   border: 1px solid black;
-}
-img {
-    max-width: 100%;
-    height: auto;
+  display: block
+  
 }
 
 
 .img-thumbnail{
-    im: 50%;
-    height: 50%;
-    border: 1px;
+ max-width: 50%;
+    height: auto;
+
 }
 a {
   color: #0000ff
