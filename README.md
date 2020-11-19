@@ -66,7 +66,6 @@ it should have a table that shows:
 1. who will be playing
 1. the times and dates 
 1. the kind of tournaments e.g. 
-- what the rank is
 - how many players vs players
 
 ## describe the footer 
