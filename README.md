@@ -81,6 +81,21 @@ the footer is for the social links for example
 i have used html, css, bootstap, and jquery.
 ## Testing ( containing test cases)
 i have tested all my code the the validator and have passed
+i used chrome to test my website
+website works on my phone and is correct size on my laptop or phone or tablet
+- huawei p30 lite
+- samsumg galaxy tab A
+- hp laptop
+### home page
+page to have a nav bar and footer
+page to have image of what rocket league is
+page should have text about the game and code of conduct
+### contact support
+user enters all valid info and click on submit. The form should submit and reload the page
+page should have navbar and footer
+### other
+
+bugs fixed - navbar added to add links to other pages to top of page instead of under image
 ## deployment
 i used github to originally create my page and did the code with gitpod 
 
