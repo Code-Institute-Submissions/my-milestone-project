@@ -77,7 +77,14 @@ the footer is for the social links for example
 1. a disclaimer that this site is for educational purposes only 
 - you add these to the footer so that they can go to the bottom of your page.
 
+## Technology
 
+## Testing ( containing test cases)
+i have tested all my code the the validator and have passed
+## deployment
+
+## acknowledgement
+i got my inspration from the actual game called rocket league and their actual website which my partner said was confusing to understand
 
 
 
