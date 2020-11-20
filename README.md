@@ -78,7 +78,10 @@ the footer is for the social links for example
 - you add these to the footer so that they can go to the bottom of your page.
 
 ## Technology
+### Languages
 i have used html, css, bootstap, and jquery.
+### Tools/Libraries
+i used some bootstap code but changed what applied to my website
 ## Testing ( containing test cases)
 i have tested all my code the the validator and have passed
 i used chrome to test my website
