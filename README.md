@@ -78,11 +78,21 @@ the footer is for the social links for example
 - you add these to the footer so that they can go to the bottom of your page.
 
 ## Technology
-
+i have used html, css, bootstap, and jquery.
 ## Testing ( containing test cases)
 i have tested all my code the the validator and have passed
 ## deployment
+i used github to originally create my page and did the code with gitpod 
 
+# credits
+
+## Content
+the code of conduct was taken from the actual rocket league website https://www.rocketleague.com/
+i only used a little piece of the code of conduct. here is a page to the code of conduct on the rocket league website 
+https://www.rocketleague.com/news/rocket-league-code-of-conduct 
+## Media
+https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.309bf22bd29c2e411e9dd8eb07575bb1.jpg
+The image is from google 
 ## acknowledgement
 i got my inspration from the actual game called rocket league and their actual website which my partner said was confusing to understand
 
